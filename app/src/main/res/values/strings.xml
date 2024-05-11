@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DishDelight</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_resep">Tambah resep</string>
+    <string name="judul">Judul :</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">judul: %1$s \nBahan: %2$s\nlangkah: \n\RESEP: %4$.2f\n%5$s</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="Copyright">DishDelight adalah sebuah aplikasi android untuk melihat resep makanan.\n\nCopyright © 2021 - 2024  Makiyah Azahra\nAll rights reserved</string>
+    <string name="isi_bcm">Catatan:</string>
+    <string name="isi_jenis">jenis :</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_resep">Ubah resep</string>
+    <string name="invalid">Judul, Bahan dan Langkah tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus Resep</string>
+    <string name="pesan_hapus">Hapus Resep ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+</resources>
